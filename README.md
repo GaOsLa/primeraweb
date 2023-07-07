@@ -1,2 +1,2 @@
-# primeraweb
-primera web que estoy diseñando en clases
+## Hey 👋, I'm GaOsLa!  
+Hello everyone, I'm Gabriel, a FULLSTACK programming student, looking to join this beautiful world. I'm currently taking a diploma course in frontend and backend development, at the UNIVERSIDAD NACIONAL DE TRES DE FEBRERO, in Buenos Aires, Argentina. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I have made some incursions along this time in the development of small revenue control systems, and project management for home services professionals. I entered these courses with the intention of perfecting myself and achieve to elaborate updated systems and to be able to achieve a better performance of them, for the enjoyment and practicality for clients and friends.
